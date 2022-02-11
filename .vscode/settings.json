@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "vector": "cpp"
+    },
+
+    "clang.cxxflags": [
+        "-std=c++11",
+        "-Wall"
+    ],
+
+    "clang.cflags": ["c11"]
+}
