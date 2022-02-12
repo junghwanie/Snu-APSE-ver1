@@ -1,11 +1,3 @@
-//
-//  parse.hpp
-//  master0.0
-//
-//  Created by 이정환 on 2020/03/20.
-//  Copyright © 2020 이정환. All rights reserved.
-//
-
 #ifndef parse_hpp
 #define parse_hpp
 
