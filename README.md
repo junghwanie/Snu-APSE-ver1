@@ -28,7 +28,7 @@ Before defining raw data collected from the GenBank database as a dataset, an Mu
 
 In this study, the ClustalW was used in the MSA software list, and MSA was performed by a setting gap open penalty of 15, a gap extension penalty of 6.66, and an IUB scoring matrix including a match score of 1.9 and a mismatch score of 0 as the alignment parameters.
 
-input dataset of this software program: the multi-aligned file format (output of MSA)
+Allowable input data of this software program: the multi-aligned file format (output of MSA)
 
 ## Results
 <img width="467" alt="result" src="https://user-images.githubusercontent.com/37526521/154423671-d31ba575-efc9-417d-943d-b9d0770fe640.png">
