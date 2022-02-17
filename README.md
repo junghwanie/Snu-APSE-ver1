@@ -30,5 +30,5 @@ In this study, the ClustalW was used in the MSA software list, and MSA was perfo
 ## Results
 <img width="467" alt="result" src="https://user-images.githubusercontent.com/37526521/154423671-d31ba575-efc9-417d-943d-b9d0770fe640.png">
 
-## Citationa
+## Citation
 If you refer to this work (including dataset) useful for your work, please cite electronic resource in [Seoul National University library](https://library.snu.ac.kr/).
