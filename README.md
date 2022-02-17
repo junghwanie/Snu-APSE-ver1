@@ -23,9 +23,12 @@ The datasets used in this study belong to Terebelliformia (Annelida), Daphniid (
 The datasets were collected from the National Center for Biotechnology Information (NCBI, https://www.ncbi.nlm.nih.gov). Corresponding fasta-formatted data was collected using a ncbi-acc-download version 0.2.6 Python tool.
 <pre><code>ncbi-acc-download --format fasta “accession number”</code></pre>
 
+## Preprocessing datasets
+Before defining raw data collected from the GenBank database as a dataset, an Multiple Sequence Alignment (MSA) that analyzes the homology of sequences is required.  
+In this study, the ClustalW was used in the MSA software list, and MSA was performed by a setting gap open penalty of 15, a gap extension penalty of 6.66, and an IUB scoring matrix including a match score of 1.9 and a mismatch score of 0 as the alignment parameters.
+
 ## Results
 <img width="467" alt="result" src="https://user-images.githubusercontent.com/37526521/154423671-d31ba575-efc9-417d-943d-b9d0770fe640.png">
 
-## Citation
+## Citationa
 If you refer to this work (including dataset) useful for your work, please cite electronic resource in [Seoul National University library](https://library.snu.ac.kr/).
-
