@@ -23,4 +23,3 @@ The datasets were collected from the National Center for Biotechnology Informati
 <pre><code>ncbi-acc-download --format fasta “accession number”</code></pre>
 
 
-
