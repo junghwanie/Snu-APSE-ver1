@@ -22,4 +22,9 @@ The datasets used in this study belong to Terebelliformia (Annelida), Daphniid (
 The datasets were collected from the National Center for Biotechnology Information (NCBI, https://www.ncbi.nlm.nih.gov). Corresponding fasta-formatted data was collected using a ncbi-acc-download version 0.2.6 Python tool.
 <pre><code>ncbi-acc-download --format fasta “accession number”</code></pre>
 
+## Results
+<img width="467" alt="result" src="https://user-images.githubusercontent.com/37526521/154423671-d31ba575-efc9-417d-943d-b9d0770fe640.png">
+
+## Citation
+If you refer to this work (including dataset) useful for your work, please cite electronic resource in [Seoul National University library](https://library.snu.ac.kr/).
 
